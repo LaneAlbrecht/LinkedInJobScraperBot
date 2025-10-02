@@ -1,2 +1,2 @@
 # LinkedInJobScraperBot
-Discord py bot to scrape LinkedIn for websites matching user preferences
+Discord py bot to scrape LinkedIn for jobs matching user preferences
